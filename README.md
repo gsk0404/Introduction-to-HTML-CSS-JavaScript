@@ -1,4 +1,4 @@
-# -Introduction-to-HTML-CSS-JavaScript
+# Introduction-to-HTML-CSS-JavaScript
 
 # Minimalist Triple Monitor Desktop Setup
 
