@@ -1,0 +1,39 @@
+1.Question: Which method of applying CSS has the highest priority and will override others?
+  Correct Answer: Inline CSS applied directly to each HTML element
+
+2.Question: Which statements accurately describe fixed and fluid layouts? (Select all that apply.)
+  Correct Answers:Fixed layouts do not change their dimensions regardless of the device.
+                  Fluid layouts use relative units to allow elements to scale dynamically.
+
+2.Question: A company is designing a website that needs to look good on both desktops and mobile devices. 
+            Which of the following statements about fluid and fixed layouts are correct? Select all that apply.
+  Correct Answer: Fixed layouts remain the same size regardless of the viewport dimensions.
+                  A fluid layout adjusts element widths proportionally based on the screen size.
+
+3.Question: What is the inaccuracy when users can enter values beyond the max in type="number"?
+  Correct Answer: The required attributes are missing from the field.
+
+4.Question: In Tailwind CSS, what does “modifier” refer to?
+  Correct Answer: A specialized prefix that conditionally applies styling based on specific states or contexts
+
+5.Question: Which semantic tag is used for content indirectly related to the main content?
+  Correct Answer: <section>
+
+6.Question: HTML5 attribute to limit age field in a web form (5–25 years)?
+  Correct Answer: list
+
+7.Question: Limitation when adopting Bootstrap for e-commerce platform?
+  Correct Answer: The pre-built elements may limit design customization.
+
+8.Question: Most appropriate semantic tag for blog post content?
+  Correct Answer: <article>
+
+9.Question: Technology used to change font and background color for headings?
+  Correct Answer: CSS
+
+
+10.Question: HTML5 element to group standalone image and accompanying text?
+   Correct Answer: Figcaption
+
+
+

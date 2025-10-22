@@ -1,0 +1,53 @@
+1. profile_name.png
+
+Title: Profile Name Displayed in Navigation Bar
+
+Caption: The portfolio's navigation bar, highlighting the styled "Inam" profile name in the top-left corner.
+
+2. nav_bar.png
+
+Title: Navigation Bar with Hover Effects
+
+Caption: Demonstrating the navigation bar's interactivity, where hovering over the "Skills" link makes the text bold and underlined.
+
+3. aboutme.png
+
+Title: "About Me" Section with Unique Profile and Summary
+
+Caption: The "About Me" section, featuring a personal profile picture, name, and a unique summary of skills and interests.
+
+4. skills.png
+
+Title: Styled Skills Section with Icons and Text
+
+Caption: A grid layout of the "Skills" section, showcasing five skills (HTML5, CSS3, Python, JavaScript, SQL) with their respective logos.
+
+5. projects.png
+
+Title: "Project Details" Section with Custom Projects
+
+Caption: The "Project details" section, displaying three custom project cards with unique titles and descriptions.
+
+6. recommendations.png
+
+Title: Initial Recommendations Section with Styled Cards
+
+Caption: The "Recommendations" section populated with three initial, styled testimonial cards above the submission form.
+
+7. new_recommendation.png
+
+Title: Dynamically Added New Recommendation
+
+Caption: Showing the "Recommendations" section after a new entry has been submitted, with a fourth card dynamically added to the list.
+
+8. home_icon.png
+
+Title: Home Icon Integrated into Navigation Bar
+
+Caption: A close-up of the navigation bar, showing the "Home" icon placed to the left of the profile name.
+
+9. popup.png
+
+Title: Recommendation Submission Confirmation Pop-up
+
+Caption: The confirmation pop-up modal ("Thank you for leaving a recommendation!") that appears after successfully submitting the form.

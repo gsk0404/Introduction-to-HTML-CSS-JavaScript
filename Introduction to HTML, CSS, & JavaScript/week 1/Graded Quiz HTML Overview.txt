@@ -1,0 +1,29 @@
+1.Question: A developer is creating a webpage that includes images. Which tag correctly inserts an image?
+   Correct Answer:<img src="image URL">
+
+2.Question: Which of the following are the standard bodies in HTML5 development?
+   Correct Answer: The development of HTML5 is a collaboration between W3C and WHATWG after they started joint efforts in 2007.
+
+3.Question: Why is HTML5 specifically suitable for adding media features to web applications?
+   Correct Answer: HTML5 requires markup and APIs for adding media features like video and storage.
+
+4.Question: Syntax for HTML comment not showing on webpage?
+   Correct Answer: <!-- This is a comment -->
+
+5.Question: Which HTML5 feature best supports running smoothly on desktops, tablets, and smartphones?
+   Correct Answer: Support multi-platform development
+
+6.Question: Which is best suitable for built-in video and structured page layout?
+   Correct Answer: Includes native support for video and improves page structure compatibility
+
+7.Question: Which HTML tag should be used for inserting a single line break?
+   Correct Answer:
+
+8.Question: Method to access metadata from HTML page?
+   Correct Answer: document.head
+
+9.Question: Firefox input type="date" support?
+   Correct Answer: Firefox supports the input type="date"
+
+10.Question: Condition to enable scripting in browsers?
+   Correct Answer: The browser supports scripting

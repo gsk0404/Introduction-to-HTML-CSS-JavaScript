@@ -1,0 +1,14 @@
+1. What JavaScript function would you use to retrieve all elements with a specified tag name from a web page?
+	Answer: document.getElementsByTagName()
+
+2. What is the purpose of the <noscript> tag in an HTML document?
+	Answer: To insert an alternative path or content for users if their browser does not support or has disabled scripts.
+
+3. Which of the following is a recommended best practice when working with JavaScript?
+	Answer: Optimize loops by storing length attributes in variables before the loop.
+
+4. What is the proper way to access a form field named field1 inside a form named form1?
+	Answer: document.forms["form1"].elements["field1"]
+
+5. Which of the following is the correct integer value representation for a TEXT_NODE type in the DOM?
+	Answer: 3

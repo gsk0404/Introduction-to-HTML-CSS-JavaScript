@@ -1,0 +1,14 @@
+1. Why is JavaScript considered an important part of web development?
+	Answer: Because it enables websites to be interactive and responsive by dynamically updating content without full page reloads.
+
+2. Which of the following is true about let and const in JavaScript?
+	Answer: let variables have block-level scope, and const variables cannot be reassigned once initialized.
+
+3. What is the primary difference between parameterized and non-parameterized functions in JavaScript?
+	Answer: Parameterized functions require arguments when called, while non-parameterized functions do not need any arguments.
+
+4. Which of the following statements is the correct way to include a script in an HTML?
+	Answer: <script src="/source/script.js"></script>
+
+5. True or False: 10car is a valid variable name in JavaScript.
+	   Answer: False
